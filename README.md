@@ -1,5 +1,5 @@
 # Minishell
-Minishell, project of common core to 42 school.
+42 school common core project.
 ## Purpose
 Reproduction of an bash terminal in C language. We had to implement command execution, pipes, signals, redirections, and our own commands.
 ## Download and Installation
