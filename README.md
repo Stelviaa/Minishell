@@ -10,6 +10,6 @@ make
 ```
 Once the project has finished compiling, you can launch the program with:
 ```
-./Minishell
+./minishell
 ```
 You can now use it as a basic terminal
